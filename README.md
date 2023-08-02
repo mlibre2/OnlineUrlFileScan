@@ -9,3 +9,4 @@ free virus check tool
 - [freevpnplanet](https://freevpnplanet.com/virus-scan/)
 - [opswat](https://metadefender.opswat.com/)
 - [filescan](https://www.filescan.io/scan)
+- [urlquery](https://urlquery.net/)
