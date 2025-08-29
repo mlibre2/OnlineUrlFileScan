@@ -10,3 +10,5 @@ free virus check tool
 - [opswat](https://metadefender.opswat.com/)
 - [filescan](https://www.filescan.io/scan)
 - [urlquery](https://urlquery.net/)
+- [manalyzer](https://manalyzer.org/)
+- [pikker](https://sandbox.pikker.ee/)
